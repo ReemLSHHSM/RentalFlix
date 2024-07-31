@@ -48,4 +48,4 @@ This document describes the Entity-Relationship Diagram (ERD) for the movie rese
 ## Diagram
 
 Below is a simplified ERD diagram representing the relationships between the tables:   
-![RentalFlix__RentalFlix ](  )
+![RentalFlix__RentalFlix ]( https://github.com/ReemLSHHSM/RentalFlix/blob/master/RentalFlix/ERD/lab.PNG "Visit RentalFlix_ERD" )
